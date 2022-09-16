@@ -42,6 +42,6 @@ echo -------------- Install Dependancies -----------
 sudo npm install forever -g
 npm install
 
-echo -------------------- Run App -------------------
+echo -------------------- Run App -----------------
 sudo forever stopall
 sudo forever start index.js
