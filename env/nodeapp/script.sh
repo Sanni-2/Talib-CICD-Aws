@@ -38,7 +38,7 @@ echo --------------- Move into App Folder -----------
 cd /homne/ubuntu/app
 pwd
 
-echo -------------- Install Dependancies ------------
+echo -------------- Install Dependancies -----------
 sudo npm install forever -g
 npm install
 
